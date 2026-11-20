@@ -1,7 +1,7 @@
 # 4-bit Adder Using CMOS Logic
 
 ## Objective
-Design, simulate and lay out a 4-bit ripple carry adder using CMOS logic.
+Design and simulate a 4-bit ripple carry adder in Verilog.
 
 ## Tools Used
 - Icarus Verilog (functional simulation)
